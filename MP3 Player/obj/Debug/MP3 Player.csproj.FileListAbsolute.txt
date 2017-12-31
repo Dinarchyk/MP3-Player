@@ -1,0 +1,16 @@
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\MP3 Player.exe.config
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\MP3 Player.exe
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\MP3 Player.pdb
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csprojResolveAssemblyReference.cache
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3_Player.MainForm.resources
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3_Player.Properties.Resources.resources
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csproj.GenerateResource.Cache
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.exe
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.pdb
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3 Player.csproj.ResolveComReference.cache
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3_Player.AboutForm.resources
+C:\Users\Динар\Documents\Visual Studio 2015\Projects\MP3 Player\MP3 Player\obj\Debug\MP3_Player.HelpForm.resources
